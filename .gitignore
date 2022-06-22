@@ -6,7 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
+# Ignoring DS Store for windows
+.DS_Store
+
+  # Distribution / packaging
 .Python
 build/
 develop-eggs/
